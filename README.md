@@ -1,4 +1,4 @@
-<h1 align="center">Yo chat! m</h1>
+<h1 align="center">Yo chat!</h1>
 <h3 align="center">I'm just a lazy dev lol</h3>
 
 - 🔭 I’m currently working on **VlVl's Server**
