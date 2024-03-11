@@ -1,9 +1,9 @@
 <h1 align="center">Yo chat!</h1>
 <h3 align="center">I'm just a lazy dev lol</h3>
 
-- 🔭 I’m currently working on **VlVl's Server**
+- 🔭 I’m currently working on **some bot**
 
-- 🌱 I’m currently learning **How to become a nerd (part 203)**
+- 🌱 I’m currently learning **meth**
 
 - 💬 Ask me about **something not matters like your momma**
 
